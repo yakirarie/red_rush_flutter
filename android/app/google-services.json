@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "934638264705",
+    "firebase_url": "https://red-rush-flutter.firebaseio.com",
+    "project_id": "red-rush-flutter",
+    "storage_bucket": "red-rush-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934638264705:android:5d467925707124e2760880",
+        "android_client_info": {
+          "package_name": "com.example.red_rush_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934638264705-lpv393okglisrtq5iqvft6n96ere8a3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.red_rush_flutter",
+            "certificate_hash": "a5e56d27dedb3b07c9074667ed7548ff20040af7"
+          }
+        },
+        {
+          "client_id": "934638264705-h7avnqhlbvhopnb70rhus4rf0ttnllsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Cuinj_DIVYQ8UZ7XUJvpwn6WrUUKBKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934638264705-h7avnqhlbvhopnb70rhus4rf0ttnllsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
